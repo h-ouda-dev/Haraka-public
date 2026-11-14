@@ -1,13 +1,13 @@
 # Haraka: Privacy Policy
 
-Effective date: 13 November 2026
+Effective date: 14 November 2026
 
 Haraka is an Arabic phonics game for children aged 2 to 7. This policy says what the app does and does not do with information. It is written for parents and guardians. "We" means the people who make Haraka.
 
 ## In short
 
 - Haraka has no accounts, no ads, and no analytics or tracking of any kind.
-- The app cannot connect to the internet. It asks for no Android permissions at all: no internet, microphone, camera, location, contacts or files.
+- The app asks for no microphone, camera, location, contacts or files. Its only permissions are the ones Google Play's purchase system needs: billing, and internet access, which that system uses to reach Google Play. The app's own code never connects to the internet.
 - Everything the app saves stays on your device. We never receive it.
 - The app never records your child.
 
@@ -17,19 +17,19 @@ To work, the app keeps the following in its own private storage on the device:
 
 - For each child you add (up to four): a nickname, which is optional; that nickname written in Arabic letters, used for a writing activity; a bird picture; an age band (2, 3, 4 to 5, or 6 to 7); and your setup answers (whether the child speaks Arabic, whether they read Arabic letters, and the language instructions are spoken in).
 - Each child's progress: levels finished and stars, how well each sound and word is known, and minutes played each day.
-- App settings: the language of the parent area, the daily time limit, and which child played last.
+- App settings: the language of the parent area, the daily time limit, which child played last, and whether the family plan is active.
 
 The app does not ask for your child's real name, date of birth, photo, email address, phone number or any other contact detail. A nickname is enough, and you can leave it empty.
 
 ## What we collect
 
-Nothing. The app has no server and no connection to us. No information about you or your child is sent to us or to anyone else, so we cannot see it, use it, sell it or share it.
+Nothing. The app has no server and no connection to us. No information about you or your child is sent to us, so we cannot see it, use it, sell it or share it. Apart from Google Play's purchase system (below), nothing is sent to anyone else.
 
 ## Other software on your device
 
-- Speech. The app speaks with the text-to-speech voice built into your device. The words to say are handed to that voice on the device. In the "My Name" activity this includes your child's nickname. The voice is part of your device, not part of Haraka, and is covered by its maker's privacy policy. Haraka itself sends nothing over the internet.
+- Speech. The app speaks with the text-to-speech voice built into your device. The words to say are handed to that voice on the device. In the "My Name" activity this includes your child's nickname. The voice is part of your device, not part of Haraka, and is covered by its maker's privacy policy. The app's own code sends nothing over the internet.
 - Backups. The app's data is left out of Android's cloud backup, so it is not copied to Google Drive. If you set up a new device by copying directly from your old one, Android may copy the app's data across to your new device.
-- Purchases. Haraka sells nothing at present. If a family plan is offered later, it will be bought through Google Play, behind a parental gate, and Google will handle the payment under its own privacy policy. We would not receive your payment details. This policy will be updated before that happens.
+- Purchases. The family plan is bought through Google Play, behind the parental gate. Google handles the payment under its own privacy policy, and we never see your payment details. To know whether the plan is active, the app asks Google Play on your device and keeps the answer there. Google Play's purchase component, which is built into the app, can send Google technical information about purchases, such as whether a purchase went through. That is covered by Google's privacy policy and contains nothing the app keeps about your child.
 
 ## Children's privacy
 
@@ -62,14 +62,14 @@ Questions about this policy or about the app: has.ouda.business@gmail.com
 
 # حركة: سياسة الخصوصية
 
-تاريخ السريان: 13 نوفمبر 2026
+تاريخ السريان: 14 نوفمبر 2026
 
 «حركة» لعبة لتعليم أصوات الحروف العربية للأطفال من عمر سنتين إلى سبع سنوات. توضّح هذه السياسة ما يفعله التطبيق بالمعلومات وما لا يفعله، وهي موجّهة إلى الوالدين وأولياء الأمور. والمقصود بـ«نحن» صانعو «حركة».
 
 ## باختصار
 
 - لا حسابات في «حركة»، ولا إعلانات، ولا أي نوع من التحليلات أو التتبّع.
-- لا يستطيع التطبيق الاتصال بالإنترنت. ولا يطلب أي إذن من أذونات أندرويد: لا الإنترنت ولا الميكروفون ولا الكاميرا ولا الموقع ولا جهات الاتصال ولا الملفات.
+- لا يطلب التطبيق الميكروفون ولا الكاميرا ولا الموقع ولا جهات الاتصال ولا الملفات. أذوناته الوحيدة هي ما يحتاجه نظام الشراء في Google Play: الفوترة، والوصول إلى الإنترنت الذي يستخدمه ذلك النظام للاتصال بـGoogle Play. أما شيفرة التطبيق نفسها فلا تتصل بالإنترنت أبدًا.
 - كل ما يحفظه التطبيق يبقى على جهازكم، ولا يصل إلينا شيء منه.
 - لا يسجّل التطبيق صوت طفلكم أبدًا.
 
@@ -79,19 +79,19 @@ Questions about this policy or about the app: has.ouda.business@gmail.com
 
 - لكل طفل تضيفونه (حتى أربعة أطفال): اسم مستعار، وهو اختياري؛ وكتابة هذا الاسم بالحروف العربية، لنشاط الكتابة؛ وصورة طائر؛ والفئة العمرية (سنتان، أو 3، أو من 4 إلى 5، أو من 6 إلى 7)؛ وإجاباتكم عند الإعداد (هل يتكلم الطفل العربية، وهل يقرأ الحروف العربية، ولغة التعليمات المنطوقة).
 - تقدّم كل طفل: المستويات المنجزة والنجوم، ومدى إتقان كل صوت وكلمة، ودقائق اللعب في كل يوم.
-- إعدادات التطبيق: لغة منطقة الوالدين، والحدّ اليومي لوقت اللعب، ومن لعب آخر مرة.
+- إعدادات التطبيق: لغة منطقة الوالدين، والحدّ اليومي لوقت اللعب، ومن لعب آخر مرة، وهل الخطة العائلية مفعّلة.
 
 لا يطلب التطبيق اسم طفلكم الحقيقي ولا تاريخ ميلاده ولا صورته ولا بريده الإلكتروني ولا رقم هاتفه ولا أي وسيلة اتصال أخرى. يكفي اسم مستعار، ويمكن تركه فارغًا.
 
 ## ما نجمعه
 
-لا شيء. ليس للتطبيق خادم ولا اتصال بنا. لا تُرسل أي معلومات عنكم أو عن طفلكم إلينا ولا إلى أي جهة أخرى، فلا نستطيع رؤيتها ولا استخدامها ولا بيعها ولا مشاركتها.
+لا شيء. ليس للتطبيق خادم ولا اتصال بنا. لا تُرسل أي معلومات عنكم أو عن طفلكم إلينا، فلا نستطيع رؤيتها ولا استخدامها ولا بيعها ولا مشاركتها. وباستثناء نظام الشراء في Google Play (أدناه)، لا يُرسل شيء إلى أي جهة أخرى.
 
 ## برامج أخرى على جهازكم
 
-- النطق. ينطق التطبيق بصوت تحويل النص إلى كلام المدمج في جهازكم. تُسلَّم الكلمات المراد نطقها إلى ذلك الصوت على الجهاز، ومنها في نشاط «اسمي» الاسم المستعار لطفلكم. هذا الصوت جزء من جهازكم وليس جزءًا من «حركة»، وتسري عليه سياسة الخصوصية الخاصة بصانعه. أما «حركة» نفسها فلا ترسل شيئًا عبر الإنترنت.
+- النطق. ينطق التطبيق بصوت تحويل النص إلى كلام المدمج في جهازكم. تُسلَّم الكلمات المراد نطقها إلى ذلك الصوت على الجهاز، ومنها في نشاط «اسمي» الاسم المستعار لطفلكم. هذا الصوت جزء من جهازكم وليس جزءًا من «حركة»، وتسري عليه سياسة الخصوصية الخاصة بصانعه. أما شيفرة التطبيق نفسها فلا ترسل شيئًا عبر الإنترنت.
 - النسخ الاحتياطي. بيانات التطبيق مستثناة من النسخ الاحتياطي السحابي في أندرويد، فلا تُنسخ إلى Google Drive. وإذا أعددتم جهازًا جديدًا بالنسخ المباشر من جهازكم القديم، فقد ينقل أندرويد بيانات التطبيق إلى جهازكم الجديد.
-- الشراء. لا تبيع «حركة» شيئًا في الوقت الحاضر. وإذا عُرضت لاحقًا خطة عائلية، فسيكون شراؤها عبر Google Play، خلف بوابة الوالدين، وتتولى Google الدفع وفق سياسة الخصوصية الخاصة بها، ولن تصل إلينا بيانات الدفع. وستُحدَّث هذه السياسة قبل ذلك.
+- الشراء. تُشترى الخطة العائلية عبر Google Play، خلف بوابة الوالدين. تتولى Google الدفع وفق سياسة الخصوصية الخاصة بها، ولا نرى بيانات الدفع أبدًا. ولمعرفة هل الخطة مفعّلة، يسأل التطبيقُ Google Play على جهازكم ويحفظ الجواب عليه. ويمكن لمكوّن الشراء من Google Play، المدمج في التطبيق، أن يرسل إلى Google معلومات تقنية عن عمليات الشراء، مثل هل تمّت عملية الشراء. ويخضع ذلك لسياسة الخصوصية الخاصة بـGoogle، ولا يتضمن شيئًا مما يحفظه التطبيق عن طفلكم.
 
 ## خصوصية الأطفال
 
