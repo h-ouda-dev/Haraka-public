@@ -1,6 +1,6 @@
 # Haraka: Privacy Policy
 
-Effective date: 14 November 2026
+Effective date: 15 November 2026
 
 Haraka is an Arabic phonics game for children aged 2 to 7. This policy says what the app does and does not do with information. It is written for parents and guardians. "We" means the people who make Haraka.
 
@@ -16,7 +16,7 @@ Haraka is an Arabic phonics game for children aged 2 to 7. This policy says what
 To work, the app keeps the following in its own private storage on the device:
 
 - For each child you add (up to four): a nickname, which is optional; that nickname written in Arabic letters, used for a writing activity; a bird picture; an age band (2, 3, 4 to 5, or 6 to 7); and your setup answers (whether the child speaks Arabic, whether they read Arabic letters, and the language instructions are spoken in).
-- Each child's progress: levels finished and stars, what the stars have won (what the child's bird wears, each day's games, a badge for each world finished), how well each sound and word is known, and minutes played each day.
+- Each child's progress: levels finished and stars, what the stars have won (what the child's bird wears, which of the game's animal friends have joined and what each of them wears, each day's games, a badge for each world finished), how well each sound and word is known, and minutes played each day.
 - App settings: the language of the parent area, the daily time limit, which child played last, and whether the family plan is active.
 
 The app does not ask for your child's real name, date of birth, photo, email address, phone number or any other contact detail. A nickname is enough, and you can leave it empty.
@@ -62,7 +62,7 @@ Questions about this policy or about the app: has.ouda.business@gmail.com
 
 # حركة: سياسة الخصوصية
 
-تاريخ السريان: 14 نوفمبر 2026
+تاريخ السريان: 15 نوفمبر 2026
 
 «حركة» لعبة لتعليم أصوات الحروف العربية للأطفال من عمر سنتين إلى سبع سنوات. توضّح هذه السياسة ما يفعله التطبيق بالمعلومات وما لا يفعله، وهي موجّهة إلى الوالدين وأولياء الأمور. والمقصود بـ«نحن» صانعو «حركة».
 
@@ -78,7 +78,7 @@ Questions about this policy or about the app: has.ouda.business@gmail.com
 ليعمل التطبيق، يحفظ ما يلي في مساحته الخاصة على الجهاز:
 
 - لكل طفل تضيفونه (حتى أربعة أطفال): اسم مستعار، وهو اختياري؛ وكتابة هذا الاسم بالحروف العربية، لنشاط الكتابة؛ وصورة طائر؛ والفئة العمرية (سنتان، أو 3، أو من 4 إلى 5، أو من 6 إلى 7)؛ وإجاباتكم عند الإعداد (هل يتكلم الطفل العربية، وهل يقرأ الحروف العربية، ولغة التعليمات المنطوقة).
-- تقدّم كل طفل: المستويات المنجزة والنجوم، وما ناله بالنجوم (ما يلبسه طائره، وألعاب كل يوم، ووسام لكل عالم أنهاه)، ومدى إتقان كل صوت وكلمة، ودقائق اللعب في كل يوم.
+- تقدّم كل طفل: المستويات المنجزة والنجوم، وما ناله بالنجوم (ما يلبسه طائره، ومن جاء من أصحاب اللعبة من الحيوانات وما يلبسه كل منهم، وألعاب كل يوم، ووسام لكل عالم أنهاه)، ومدى إتقان كل صوت وكلمة، ودقائق اللعب في كل يوم.
 - إعدادات التطبيق: لغة منطقة الوالدين، والحدّ اليومي لوقت اللعب، ومن لعب آخر مرة، وهل الخطة العائلية مفعّلة.
 
 لا يطلب التطبيق اسم طفلكم الحقيقي ولا تاريخ ميلاده ولا صورته ولا بريده الإلكتروني ولا رقم هاتفه ولا أي وسيلة اتصال أخرى. يكفي اسم مستعار، ويمكن تركه فارغًا.
