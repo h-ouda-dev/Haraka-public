@@ -1,14 +1,14 @@
 # Haraka: Privacy Policy
 
-Effective date: 15 November 2026
+Effective date: 22 November 2026
 
 Haraka is an Arabic phonics game for children aged 2 to 7. This policy says what the app does and does not do with information. It is written for parents and guardians. "We" means the people who make Haraka.
 
 ## In short
 
 - Haraka has no accounts, no ads, and no analytics or tracking of any kind.
-- The app asks for no microphone, camera, location, contacts or files. Its only permissions are the ones Google Play's purchase system needs: billing, and internet access, which that system uses to reach Google Play. The app's own code never connects to the internet.
-- Everything the app saves stays on your device. We never receive it.
+- The app asks for no microphone, camera, location, contacts or file access. Its only permissions are the ones Google Play's purchase system needs: billing, and internet access, which that system uses to reach Google Play. The app's own code never connects to the internet.
+- Everything the app saves stays on your device, unless you send a child's progress to another device or save it as a file yourself (below). We never receive it.
 - The app never records your child.
 
 ## What the app saves on your device
@@ -24,6 +24,12 @@ The app does not ask for your child's real name, date of birth, photo, email add
 ## What we collect
 
 Nothing. The app has no server and no connection to us. No information about you or your child is sent to us, so we cannot see it, use it, sell it or share it. Apart from Google Play's purchase system (below), nothing is sent to anyone else.
+
+## Moving or saving progress
+
+In the parent area, behind the parental gate, you can send a child's progress to another device of yours, such as from a phone to a tablet, or save it as a file on this device. The app makes a small file and opens your device's own share options (Quick Share, Bluetooth, a messaging app or whatever your device offers), and you choose where it goes. The file holds the child's progress (as listed above) and their age band, bird picture and setup answers. It never holds the child's nickname or its Arabic spelling.
+
+To save it, the app opens your device's own "save to" window and you choose the place, such as Downloads; the file stays there until you delete it, even if the app is removed. The app sends the file nowhere by itself, and we never receive it. If you send it through another app, such as a messaging app, email or a cloud drive, that app's privacy policy covers it while it is there. On the other device, you open the file in the parent area with your device's own file picker, which lets the app read only the one file you choose, and you decide whose progress it is. Neither step needs a permission.
 
 ## Other software on your device
 
@@ -62,15 +68,15 @@ Questions about this policy or about the app: has.ouda.business@gmail.com
 
 # حركة: سياسة الخصوصية
 
-تاريخ السريان: 15 نوفمبر 2026
+تاريخ السريان: 22 نوفمبر 2026
 
 «حركة» لعبة لتعليم أصوات الحروف العربية للأطفال من عمر سنتين إلى سبع سنوات. توضّح هذه السياسة ما يفعله التطبيق بالمعلومات وما لا يفعله، وهي موجّهة إلى الوالدين وأولياء الأمور. والمقصود بـ«نحن» صانعو «حركة».
 
 ## باختصار
 
 - لا حسابات في «حركة»، ولا إعلانات، ولا أي نوع من التحليلات أو التتبّع.
-- لا يطلب التطبيق الميكروفون ولا الكاميرا ولا الموقع ولا جهات الاتصال ولا الملفات. أذوناته الوحيدة هي ما يحتاجه نظام الشراء في Google Play: الفوترة، والوصول إلى الإنترنت الذي يستخدمه ذلك النظام للاتصال بـGoogle Play. أما شيفرة التطبيق نفسها فلا تتصل بالإنترنت أبدًا.
-- كل ما يحفظه التطبيق يبقى على جهازكم، ولا يصل إلينا شيء منه.
+- لا يطلب التطبيق الميكروفون ولا الكاميرا ولا الموقع ولا جهات الاتصال ولا الوصول إلى الملفات. أذوناته الوحيدة هي ما يحتاجه نظام الشراء في Google Play: الفوترة، والوصول إلى الإنترنت الذي يستخدمه ذلك النظام للاتصال بـGoogle Play. أما شيفرة التطبيق نفسها فلا تتصل بالإنترنت أبدًا.
+- كل ما يحفظه التطبيق يبقى على جهازكم، إلا إذا أرسلتم بأنفسكم تقدّم طفل إلى جهاز آخر أو حفظتموه في ملف (أدناه)، ولا يصل إلينا شيء منه.
 - لا يسجّل التطبيق صوت طفلكم أبدًا.
 
 ## ما يحفظه التطبيق على جهازكم
@@ -86,6 +92,12 @@ Questions about this policy or about the app: has.ouda.business@gmail.com
 ## ما نجمعه
 
 لا شيء. ليس للتطبيق خادم ولا اتصال بنا. لا تُرسل أي معلومات عنكم أو عن طفلكم إلينا، فلا نستطيع رؤيتها ولا استخدامها ولا بيعها ولا مشاركتها. وباستثناء نظام الشراء في Google Play (أدناه)، لا يُرسل شيء إلى أي جهة أخرى.
+
+## نقل التقدّم أو حفظه
+
+في منطقة الوالدين، خلف بوابة الوالدين، يمكنكم إرسال تقدّم طفل إلى جهاز آخر لكم، كأن تنقلوه من الهاتف إلى الجهاز اللوحي، أو حفظه في ملف على هذا الجهاز. يصنع التطبيق ملفًا صغيرًا ويفتح خيارات المشاركة في جهازكم (Quick Share أو البلوتوث أو تطبيق مراسلة أو أي طريقة يتيحها جهازكم)، وتختارون أنتم وجهته. يحمل الملف تقدّم الطفل (كما ورد أعلاه) وفئته العمرية وصورة طائره وإجابات الإعداد، ولا يحمل أبدًا اسمه المستعار ولا كتابته بالحروف العربية.
+
+ولحفظه، يفتح التطبيق نافذة الحفظ في جهازكم وتختارون أنتم المكان، كالتنزيلات، ويبقى الملف هناك إلى أن تحذفوه، حتى لو أُزيل التطبيق. لا يرسل التطبيق الملف إلى أي مكان من تلقاء نفسه، ولا يصل إلينا. وإذا أرسلتموه عبر تطبيق آخر، كتطبيق مراسلة أو بريد إلكتروني أو تخزين سحابي، فتسري عليه سياسة الخصوصية الخاصة بذلك التطبيق ما دام فيه. وعلى الجهاز الآخر، تفتحون الملف في منطقة الوالدين بأداة اختيار الملفات في جهازكم، التي لا تتيح للتطبيق إلا قراءة الملف الواحد الذي تختارونه، وتحدّدون أنتم تقدّم أيّ طفل هو. ولا تحتاج أيّ من الخطوتين إلى إذن.
 
 ## برامج أخرى على جهازكم
 
