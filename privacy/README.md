@@ -1,6 +1,6 @@
 # Haraka: Privacy Policy
 
-Effective date: 22 November 2026
+Effective date: 25 November 2026
 
 Haraka is an Arabic phonics game for children aged 2 to 7. This policy says what the app does and does not do with information. It is written for parents and guardians. "We" means the people who make Haraka.
 
@@ -8,7 +8,7 @@ Haraka is an Arabic phonics game for children aged 2 to 7. This policy says what
 
 - Haraka has no accounts, no ads, and no analytics or tracking of any kind.
 - The app asks for no microphone, camera, location, contacts or file access. Its only permissions are the ones Google Play's purchase system needs: billing, and internet access, which that system uses to reach Google Play. The app's own code never connects to the internet.
-- Everything the app saves stays on your device, unless you send a child's progress to another device or save it as a file yourself (below). We never receive it.
+- Everything the app saves stays on your device, unless you yourself send a child's progress to another device, save it as a file, or print or share a practice sheet with your child's name on it (below). We never receive it.
 - The app never records your child.
 
 ## What the app saves on your device
@@ -17,7 +17,7 @@ To work, the app keeps the following in its own private storage on the device:
 
 - For each child you add (up to four): a nickname, which is optional; that nickname written in Arabic letters, used for a writing activity; a bird picture; an age band (2, 3, 4 to 5, or 6 to 7); and your setup answers (whether the child speaks Arabic, whether they read Arabic letters, and the language instructions are spoken in).
 - Each child's progress: levels finished and stars, what the stars have won (what the child's bird wears, which of the game's animal friends have joined, which one the child chose to play with and what each of them wears, each day's games, a badge for each world finished), how well each sound and word is known, and minutes played each day.
-- App settings: the language of the parent area, the daily time limit, which child played last, and whether the family plan is active.
+- App settings: the language of the parent area, the daily time limit, which child played last, whether the family plan is active, and the paper size for practice sheets.
 
 The app does not ask for your child's real name, date of birth, photo, email address, phone number or any other contact detail. A nickname is enough, and you can leave it empty.
 
@@ -30,6 +30,12 @@ Nothing. The app has no server and no connection to us. No information about you
 In the parent area, behind the parental gate, you can send a child's progress to another device of yours, such as from a phone to a tablet, or save it as a file on this device. The app makes a small file and opens your device's own share options (Quick Share, Bluetooth, a messaging app or whatever your device offers), and you choose where it goes. The file holds the child's progress (as listed above) and their age band, bird picture and setup answers. It never holds the child's nickname or its Arabic spelling.
 
 To save it, the app opens your device's own "save to" window and you choose the place, such as Downloads; the file stays there until you delete it, even if the app is removed. The app sends the file nowhere by itself, and we never receive it. If you send it through another app, such as a messaging app, email or a cloud drive, that app's privacy policy covers it while it is there. On the other device, you open the file in the parent area with your device's own file picker, which lets the app read only the one file you choose, and you decide whose progress it is. Neither step needs a permission.
+
+## Practice sheets
+
+In the parent area, behind the parental gate, you can print practice sheets for your child, or save or share them as a PDF file. The app draws the sheets on your device. A sheet holds letters, words and pictures to trace, colour and read. Your child's name, in Arabic letters, is printed on a sheet's name line, dotted for your child to trace, only if you tick "Put my child's name on it"; the "My Name" sheet always shows it, for the same reason.
+
+To print, the app opens your device's own print dialog, and your device's print service sends the sheets to the printer you choose. That service is part of your device, not part of Haraka, and is covered by its maker's privacy policy. To save or share the PDF, the app opens your device's own "save to" window or share options, as for a progress file, and you choose where it goes. The app sends the sheets nowhere by itself, and we never receive them. None of this needs a permission.
 
 ## Other software on your device
 
@@ -68,7 +74,7 @@ Questions about this policy or about the app: has.ouda.business@gmail.com
 
 # حركة: سياسة الخصوصية
 
-تاريخ السريان: 22 نوفمبر 2026
+تاريخ السريان: 25 نوفمبر 2026
 
 «حركة» لعبة لتعليم أصوات الحروف العربية للأطفال من عمر سنتين إلى سبع سنوات. توضّح هذه السياسة ما يفعله التطبيق بالمعلومات وما لا يفعله، وهي موجّهة إلى الوالدين وأولياء الأمور. والمقصود بـ«نحن» صانعو «حركة».
 
@@ -76,7 +82,7 @@ Questions about this policy or about the app: has.ouda.business@gmail.com
 
 - لا حسابات في «حركة»، ولا إعلانات، ولا أي نوع من التحليلات أو التتبّع.
 - لا يطلب التطبيق الميكروفون ولا الكاميرا ولا الموقع ولا جهات الاتصال ولا الوصول إلى الملفات. أذوناته الوحيدة هي ما يحتاجه نظام الشراء في Google Play: الفوترة، والوصول إلى الإنترنت الذي يستخدمه ذلك النظام للاتصال بـGoogle Play. أما شيفرة التطبيق نفسها فلا تتصل بالإنترنت أبدًا.
-- كل ما يحفظه التطبيق يبقى على جهازكم، إلا إذا أرسلتم بأنفسكم تقدّم طفل إلى جهاز آخر أو حفظتموه في ملف (أدناه)، ولا يصل إلينا شيء منه.
+- كل ما يحفظه التطبيق يبقى على جهازكم، إلا إذا أرسلتم بأنفسكم تقدّم طفل إلى جهاز آخر أو حفظتموه في ملف، أو طبعتم ورقة تدريب عليها اسم طفلكم أو شاركتموها (أدناه)، ولا يصل إلينا شيء منه.
 - لا يسجّل التطبيق صوت طفلكم أبدًا.
 
 ## ما يحفظه التطبيق على جهازكم
@@ -85,7 +91,7 @@ Questions about this policy or about the app: has.ouda.business@gmail.com
 
 - لكل طفل تضيفونه (حتى أربعة أطفال): اسم مستعار، وهو اختياري؛ وكتابة هذا الاسم بالحروف العربية، لنشاط الكتابة؛ وصورة طائر؛ والفئة العمرية (سنتان، أو 3، أو من 4 إلى 5، أو من 6 إلى 7)؛ وإجاباتكم عند الإعداد (هل يتكلم الطفل العربية، وهل يقرأ الحروف العربية، ولغة التعليمات المنطوقة).
 - تقدّم كل طفل: المستويات المنجزة والنجوم، وما ناله بالنجوم (ما يلبسه طائره، ومن جاء من أصحاب اللعبة من الحيوانات، ومن اختاره الطفل منهم ليلعب معه، وما يلبسه كل منهم، وألعاب كل يوم، ووسام لكل عالم أنهاه)، ومدى إتقان كل صوت وكلمة، ودقائق اللعب في كل يوم.
-- إعدادات التطبيق: لغة منطقة الوالدين، والحدّ اليومي لوقت اللعب، ومن لعب آخر مرة، وهل الخطة العائلية مفعّلة.
+- إعدادات التطبيق: لغة منطقة الوالدين، والحدّ اليومي لوقت اللعب، ومن لعب آخر مرة، وهل الخطة العائلية مفعّلة، ومقاس الورق لأوراق التدريب.
 
 لا يطلب التطبيق اسم طفلكم الحقيقي ولا تاريخ ميلاده ولا صورته ولا بريده الإلكتروني ولا رقم هاتفه ولا أي وسيلة اتصال أخرى. يكفي اسم مستعار، ويمكن تركه فارغًا.
 
@@ -98,6 +104,12 @@ Questions about this policy or about the app: has.ouda.business@gmail.com
 في منطقة الوالدين، خلف بوابة الوالدين، يمكنكم إرسال تقدّم طفل إلى جهاز آخر لكم، كأن تنقلوه من الهاتف إلى الجهاز اللوحي، أو حفظه في ملف على هذا الجهاز. يصنع التطبيق ملفًا صغيرًا ويفتح خيارات المشاركة في جهازكم (Quick Share أو البلوتوث أو تطبيق مراسلة أو أي طريقة يتيحها جهازكم)، وتختارون أنتم وجهته. يحمل الملف تقدّم الطفل (كما ورد أعلاه) وفئته العمرية وصورة طائره وإجابات الإعداد، ولا يحمل أبدًا اسمه المستعار ولا كتابته بالحروف العربية.
 
 ولحفظه، يفتح التطبيق نافذة الحفظ في جهازكم وتختارون أنتم المكان، كالتنزيلات، ويبقى الملف هناك إلى أن تحذفوه، حتى لو أُزيل التطبيق. لا يرسل التطبيق الملف إلى أي مكان من تلقاء نفسه، ولا يصل إلينا. وإذا أرسلتموه عبر تطبيق آخر، كتطبيق مراسلة أو بريد إلكتروني أو تخزين سحابي، فتسري عليه سياسة الخصوصية الخاصة بذلك التطبيق ما دام فيه. وعلى الجهاز الآخر، تفتحون الملف في منطقة الوالدين بأداة اختيار الملفات في جهازكم، التي لا تتيح للتطبيق إلا قراءة الملف الواحد الذي تختارونه، وتحدّدون أنتم تقدّم أيّ طفل هو. ولا تحتاج أيّ من الخطوتين إلى إذن.
+
+## أوراق التدريب
+
+في منطقة الوالدين، خلف بوابة الوالدين، يمكنكم طباعة أوراق تدريب لطفلكم، أو حفظها أو مشاركتها في ملف PDF. يرسم التطبيق الأوراق على جهازكم. في الورقة حروف وكلمات وصور للتتبّع والتلوين والقراءة. ولا يُطبع اسم طفلكم بالحروف العربية على سطر الاسم في الورقة، منقّطًا ليتتبّعه، إلا إذا اخترتم «كتابة اسم طفلي عليها»؛ أما ورقة «اسمي» ففيها اسمه دائمًا، للسبب نفسه.
+
+وللطباعة، يفتح التطبيق نافذة الطباعة في جهازكم، وترسل خدمة الطباعة في جهازكم الأوراق إلى الطابعة التي تختارونها. وهذه الخدمة جزء من جهازكم وليست جزءًا من «حركة»، وتسري عليها سياسة الخصوصية الخاصة بصانعها. ولحفظ ملف PDF أو مشاركته، يفتح التطبيق نافذة الحفظ أو خيارات المشاركة في جهازكم، كما في ملف التقدّم، وتختارون أنتم وجهته. لا يرسل التطبيق الأوراق إلى أي مكان من تلقاء نفسه، ولا يصل إلينا شيء منها. ولا يحتاج شيء من ذلك إلى إذن.
 
 ## برامج أخرى على جهازكم
 
